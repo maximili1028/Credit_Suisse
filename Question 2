@@ -1,0 +1,5 @@
+	Create a new CONST for IsPoliticallyExposed in class Category
+	Add the new property in ITrades interface
+	Implements the new interface change into Trade clase
+	Add new function logic for IsPoliticallyExposed into Portfolio Class
+	Set the priority for function IsPoliticallyExposed on CategorizeTrades method into Portfolio Class
